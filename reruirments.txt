@@ -1,0 +1,4 @@
+snowfalke-snowpark-python
+streamlit
+requests
+pandas
